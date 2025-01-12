@@ -5,4 +5,4 @@ jobs:
     if: ${{ github.actor == 'apeiria-zero' }}
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello"
+      - run: echo "apeiria"
